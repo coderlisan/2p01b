@@ -1,4 +1,1 @@
-# psd2html3b
-This is my latest project. I'm getting done.
-Love that
-Farid Rony vai er PSD to HTML project
+শিখবে সবাই এর মেন্টর ফরিদ রনি ভাইয়ের দেওয়া একটি পিএসডি ফাইল থেকে এইচটিএমএল এ কনভার্ট করলাম
